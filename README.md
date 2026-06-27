@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ce-soir-je-taime/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ce Soir Je T'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ce-soir-je-taime/) |
+| **Get License** | [Obtain a Music License for Ce Soir Je T'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ce-soir-je-taime/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `afede375ed012ad5e9784575e0046144904989c96198a2bf9cce74ca878d51c7` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

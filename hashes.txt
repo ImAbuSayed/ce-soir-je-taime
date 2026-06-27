@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ce Soir Je T'aime
+
+This log tracks the cryptographic history and versioning for the song **Ce Soir Je T'aime** (ce-soir-je-taime).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:07:53.712996 | `v1` | `afede375ed012ad5e9784575e0046144904989c96198a2bf9cce74ca878d51c7` | `a512852ea2dabb6042b5c027041af80577d283c50ca4a82e67940c640ed0f666` | `2026-06-27_ce-soir-je-taime-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
