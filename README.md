@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Regarde-moi dans les yeux, ce soir tout est permis
+> Ton parfum sur ma veste, baby, t'es ma VIP
+> Sous les stroboscopes, mon cœur perd la raison
+> Ce soir je t'aime, c'est la seule condition
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
